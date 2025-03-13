@@ -1,10 +1,10 @@
-🖐 Hi there! I'm @QuteViki
-👤 IRL Name: Eda Calderini Živanović
-👀 Interests: Passionate about programming, creating, and problem-solving.
-🌱 Currently Learning: Responsive Webpage Design & Database Management (Studying at University of Applied Sciences of Rijeka)
-💡 Helping Others: Always happy to share knowledge and assist whenever I can.
-📫 Contact Me:
-📧 Email: edacalderini14@gmail.com, qutoviki@gmail.com
+🖐 Hi there! I'm @QuteViki <br>
+👤 IRL Name: Eda Calderini Živanović<br>
+👀 Interests: Passionate about programming, creating, and problem-solving.<br>
+🌱 Currently Learning: Responsive Webpage Design & Database Management (Studying at University of Applied Sciences of Rijeka)<br>
+💡 Helping Others: Always happy to share knowledge and assist whenever I can.<br><br>
+📫 Contact Me:<br>
+📧 Email: edacalderini14@gmail.com, qutoviki@gmail.com<br>
 💬 Discord: qutoviki
 
 <!---
